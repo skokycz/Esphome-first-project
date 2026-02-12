@@ -1,31 +1,39 @@
 # Esphome-first-project
 
-## Fotografie projektu
+## Součástky projektu
 
-### 3. února 2026
+### ESP32-S3
 
-![IMG_20260203_164301](IMG_20260203_164301~2.jpg)
+![ESP32-S3](IMG_20260203_171654.jpg)
 
-![IMG_20260203_164345](IMG_20260203_164345.jpg)
+### PIR modul
 
-![IMG_20260203_171654](IMG_20260203_171654.jpg)
+![PIR modul 1](IMG_20260203_164301~2.jpg)
 
-### 12. února 2026
+![PIR modul 2](IMG_20260212_160218~2.jpg)
 
-![IMG_20260212_155522](IMG_20260212_155522.jpg)
+### Micro SD Card Adapter modul
 
-![IMG_20260212_155555](IMG_20260212_155555.jpg)
+![Micro SD Card Adapter](IMG_20260203_164345.jpg)
 
-![IMG_20260212_155804](IMG_20260212_155804~2.jpg)
+### Nabíjecí modul pro 3,7V 1000mAh akumulátor
 
-![IMG_20260212_155849](IMG_20260212_155849.jpg)
+![Nabíjecí modul](IMG_20260212_155804~2.jpg)
 
-![IMG_20260212_160218](IMG_20260212_160218~2.jpg)
+![Nabíjecí modul - objednávka](Screenshot_2026-02-02-23-38-38-314_com.einnovation.temu.jpg)
 
-![IMG_20260212_183952](IMG_20260212_183952~2.jpg)
+### PCB od powerbanky + akumulátor
 
-![IMG_20260212_184348](IMG_20260212_184348.jpg)
+![PCB od powerbanky 1](IMG_20260212_155522.jpg)
 
-### Screenshot
+![PCB od powerbanky 2](IMG_20260212_155555.jpg)
 
-![Screenshot Temu](Screenshot_2026-02-02-23-38-38-314_com.einnovation.temu.jpg)
+![Akumulátor](IMG_20260212_155849.jpg)
+
+### Konektory (samec/samice)
+
+![Konektory](IMG_20260212_184348.jpg)
+
+### Testovací PCB osazená ovládacími prvky (nespájeno, nepropojeno)
+
+![Testovací PCB](IMG_20260212_183952~2.jpg)
