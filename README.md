@@ -8,6 +8,10 @@
 
 ![ESP32-S3 Pinout](Screenshot_2026-02-03-23-55-00-596_com.android.chrome.jpg)
 
+### Displej ILI9341 2,8" 240x320 TFT SPI
+
+![Displej ILI9341](51449.jpg)
+
 ### PIR modul
 
 ![PIR modul 1](IMG_20260203_164301~2.jpg)
